@@ -40,6 +40,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
+![image](https://github.com/FadMikhail/8.3_monitoring_Zabbix_2/assets/132131230/352c2844-4345-48bd-ab17-7be4daa6c017)
 
  ---
 
@@ -70,6 +71,11 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
+![image](https://github.com/FadMikhail/8.3_monitoring_Zabbix_2/assets/132131230/f5d876e7-e45b-4260-a2eb-fa7b36cb46fb)
+![image](https://github.com/FadMikhail/8.3_monitoring_Zabbix_2/assets/132131230/4708ba13-97e6-4f94-ad2e-a701f3e3f82a)
+![image](https://github.com/FadMikhail/8.3_monitoring_Zabbix_2/assets/132131230/80fe06be-ad85-4f0a-b389-b3e4f5997fb5)
+
+
 
  ---
 
